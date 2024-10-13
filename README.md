@@ -1,7 +1,7 @@
 ## Olá eu me chamo Victoria
 
 - 🌱 Estudando Html, css
-- 😄 Pronouns: Ela/dela
+- 😄 Pronome: Ela/dela
 
 <div>
   <a href "https://github.com/VictoriaAmarall">

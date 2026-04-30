@@ -1,35 +1,40 @@
-<h2 align="left">Hi 👋! My name is Victoria</h2>
+# Olá, eu sou Victoria! 👋
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px"> Estudante de FRONT-END<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px"> Técnica em Desenvolvimento de Sistemas<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px"> Tenho interesse na área de UX/UI<br>
+### 👨‍💻 Desenvolvedora Front-End
 
-###
-  ## 🛠️ Habilidades
-<div align="left">
+Entusiasta de Web development. Atualmente focada em aprimorar minhas habilidades em **[PHP e Jvascript]** e contribuir para projetos de código aberto.
 
- <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+---
 
-###
-## 📈 Estatísticas do GitHub
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictoriaAmarall&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictoriaAmarall&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 🛠️ Tools
 
-###
-  ## 📲 Contato
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Frontend** | HTML, CSS, Javascript |
+| **Backend** | PHP, MySQL |
+| **Ferramentas** | Git, Figma, Xampp |
 
-###
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
-</div>
+---
+
+### 📊 Estatísticas do GitHub
+
+Aqui você pode ver um pouco do meu desempenho e das linguagens que mais utilizo:
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+---
+
+### 🔥 Meus Projetos em Destaque
+
+* **[Portfolio](link)**: Meu portfolio com meus projetos e experiências.
+
+---
+
+### 📫 Como me encontrar
+
+* 💼 **LinkedIn**: [Victoria Amaral](https://www.linkedin.com/in/victoriamaraloliveira/)
+* 📧 **E-mail**: [victoria_amaral_oliveira@hotmail.com](mailto:victoria_amaral_oliveira@hotmail.com)
+* 📝 **Blog/Portfolio**: [Portfolio](https://github.com/VictoriaAmarall/Portfolio.git)

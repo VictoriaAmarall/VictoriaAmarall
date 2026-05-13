@@ -21,8 +21,7 @@ Entusiasta de Web development. Atualmente focada em aprimorar minhas habilidades
 Aqui você pode ver um pouco do meu desempenho e das linguagens que mais utilizo:
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VictoriaAmarall&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaAmarall&layout=compact&theme=tokyonight&hide_border=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictoriaAmarall)](https://github.com/VictoriaAmarall/github-readme-stats)
 </p>
 ---
 
